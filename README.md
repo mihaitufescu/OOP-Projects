@@ -1,2 +1,2 @@
-# Teme-OOP
-In acest repository se afla temele mele rezolvate pentru laboratorul de POO.
+# OOP-Projects
+Here you can find OOP projects such as a management programs for a petshop, car dealership and library.
